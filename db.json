@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Torre 8GB GTX1050 i7 4770k",
+      "description": "Ordenador multiproposito a buen precio",
+      "precio": 500,
+      "ventas": 121,
+      "image": "http://www.geeky-gadgets.com/wp-content/uploads/2017/08/Ultimate-Sleeper-PC-Build.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Apple iPhone 6S Plus123",
+      "description": "Apple iPhone 6S Plus - Smartphone libre iOS, Pantalla 5.5, 64 GB (Dual-Core 1.4 GHz, 2 GB de RAM, cámara de 12 MP), (Reacondicionado Certificado por Apple), Plateado (Silver)",
+      "precio": 363,
+      "ventas": 341,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41UuAix57XL._AC_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Amazon Fire TV Stick",
+      "description": "Conecta el Amazon Fire TV Stick a tu televisor HD y empieza a ver contenido en streaming en cuestión de minutos",
+      "precio": 39.99,
+      "ventas": 89,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Sowz0FgwL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Auriculares Bluetooth, HOMSCAMm",
+      "description": "Los auriculares inalámbricos están equipados con chips Bluetooth 5.0, que ofrecen un sonido estéreo de alta calidad, bajos fuertes y mantienen una baja latencia cuando se juega o se hacen videos. El micrófono incorporado y el diseño de cancelación de ruido, tanto el auricular izquierdo como el derecho soportan responder y colgar llamadas, brindándole una grata experiencia de llamada",
+      "precio": 29.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51KkcCx5jGL._AC_SL1000_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Tronsmart SONO Auriculares ",
+      "description": "Compatible con todos dispositivos de 3.5mm Interfaz. Enchufar y usar, no necesita la conduzca PS4, PS4 Pro / Slim, Xbox One, PC, Nintendo Switch / 3DS, PSP así como portátil, ordenador de sobremesa, tablet, iPad y teléfono móvil.",
+      "precio": 45.99,
+      "ventas": 389,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61p6X7W6FGL._AC_SL1200_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Huawei Watch GT2 Sport",
+      "description": "Kirin A1, el primer procesador desarrollado en su totalidad por HUAWEI, ofrece un alto rendimiento y un bajo consumo de energía; con hasta dos semanas de batería",
+      "precio": 159,
+      "ventas": 543,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61rmsUV7h%2BL._AC_SL1000_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Victure AC800",
+      "description": "VÍDEO 4K HD Y 20MP - Con la nueva generación de chips NT96660, la action cam puede grabar en full hd 4k y hacer fotos de 20mp de resolución; con un ángulo de visión amplio ajustables, no se pierde ningún detalles; incorpora pantalla lcd de 2 pulgadas para ver las fotos o vídeos grabados",
+      "precio": 59.49,
+      "ventas": 143,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61hiR7hjyJL._AC_SL1000_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Maxell LR03 - Pilas AAA",
+      "description": "Pilas alcalinas duraderos",
+      "precio": 9.8,
+      "ventas": 13,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51G4byQ78vL._AC_.jpg"
+    }
+  ]
+}

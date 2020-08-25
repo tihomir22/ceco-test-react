@@ -1,0 +1,7 @@
+.sidebar-sticky {
+  position: sticky;
+  top: 44px;
+  height: calc(100vh - 44px);
+  overflow-x: hidden;
+  overflow-y: auto;
+}

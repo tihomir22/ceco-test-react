@@ -1,0 +1,20 @@
+@import "../../mixins.scss";
+
+.sidebarMain {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  .sidebarList {
+    width: 20vh;
+    position: sticky;
+    @include ocultarSiMovil;
+  }
+
+  .mainContent {
+    width: calc(100% - 20vh);
+    height: 100%;
+    @media (min-width: 320px) and (max-width: 480px) {
+      width: 100%;
+    }
+  }
+}

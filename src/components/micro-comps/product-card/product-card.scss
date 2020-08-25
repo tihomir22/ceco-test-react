@@ -1,0 +1,23 @@
+@import "../../../variables.scss";
+
+h4 {
+  font-size: 1rem;
+  color: $ternaryColor;
+}
+
+.contenedorAcciones {
+  display: none;
+  flex-direction: row;
+  position: absolute;
+  .expandir-flex {
+    flex: 1 1 auto !important;
+  }
+}
+
+.cardProducto {
+  &:hover {
+    .contenedorAcciones {
+      display: flex;
+    }
+  }
+}

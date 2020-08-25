@@ -1,0 +1,5 @@
+@mixin ocultarSiMovil {
+  @media (min-width: 0px) and (max-width: 480px) {
+    display: none;
+  }
+}

@@ -1,0 +1,27 @@
+@import "../../../src/variables.scss";
+
+.formLoginFlexContainer {
+  background-color: $mainColor;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  .formLogin {
+    width: 50vh;
+  }
+
+  .inlineImgLogo {
+    img {
+      max-width: 128px;
+      max-height: 128px;
+    }
+  }
+  .belowLogoText {
+    span {
+      font-size: 3rem;
+      color: $secondaryColor;
+      font-family: "Roboto", sans-serif;
+    }
+  }
+}
